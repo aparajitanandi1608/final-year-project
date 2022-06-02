@@ -12,21 +12,9 @@
 <br>
 <p>If I make the sign of 'A' then it will predict that it is "A". </p>
 <br>
-<span >
-  <img src="ia.png" width="700" height="500" title="after pressing F button">
-</span>
 <br>
 <br>
 <p>Similarly it can predict any sign. </p>
-<br>
-<span >
-  <img src="f.png" width="700" height="500" title="after pressing F button">
-</span>
-<br>
-
-<span>
-  <img src="e.png" width="700" height="500">
-</span>
 <br>
 <br>
 <p>I am also using Python library named "spellchecker" to check the spelling of a particular word and if the spelling is wrong then the library will try to correct it.</p>
